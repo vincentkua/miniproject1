@@ -56,8 +56,6 @@ public class ShopClient {
 
         }
 
-
-
         // Do Something;
         while (true) {
             String inputcommand = cons.readLine(">");

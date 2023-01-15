@@ -1,7 +1,6 @@
 package task2;
 
 import java.io.BufferedReader;
-import java.io.Console;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.File;
@@ -14,7 +13,6 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.text.NumberFormat.Style;
 
 public class ShopServer {
 
